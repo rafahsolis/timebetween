@@ -3,7 +3,7 @@ import sys
 import datetime
 
 ussage = "ussage: ./timebetween date1 date2 \n(date format: dd-mm-yyyy | today) " \
-         "\n examples:\n./timebetween 05-07-2010 09-04-2015\n./timebetween 05-07-2010"
+         "\n examples:\n./timebetween 05-07-2010 09-04-2015\n./timebetween 05-07-2010 today"
 
 def DatesToSubstract(date1, date2):
     '''
