@@ -1,5 +1,6 @@
 # timebetween
-Python script to determine the time between 2 dates
+Python script to determine the time between 2 dates.
+Outputs number of years, months, days between both dates.
 
 ## Ussage:
 ./timebetween.py date1 date2 
